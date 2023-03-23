@@ -2,7 +2,7 @@
 
 ## Learning
 <h2>Web Application basics</h2>
-Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. https://developer.mozilla.org/en-US/docs/Web
+Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. <a href="https://developer.mozilla.org/en-US/docs/Web">MDN Web</a>
 
 <b>Common scope vulnerabilities.</b> You will need to know common scope vulnerabilities such as Remote Code Execution (RCE), Cross Site Request Forgery (CSRF), Cross Site Scripting (XSS), Injections (SQL, Command etc.), Clickjacking, Open Redirects, etc.
 
