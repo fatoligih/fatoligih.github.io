@@ -2,8 +2,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web">MDNWeb</a><br/>
 <a href="https://portswigger.net/web-security">PortSwigger</a><br/>
 <a href=""></a><br/>
-<a href="https://owasp.org/www-community/attacks/">Owasp-Attacks</a>
-
+<a href="https://owasp.org/www-community/attacks/">Owasp-Attacks</a><br/>
+<a href="https://owasp.org/www-project-top-ten/">Owasp-Top10</a><br/>
+<a href="https://owasp.org/www-community/Vulnerability_Scanning_Tools"></a>ScanningTools<br/>
+<a href="https://www.mozilla.org/en-US/security/bug-bounty/">MDNBB</a><br/>
 
 <h2>Web Application basics</h2>
 Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. <a href="https://developer.mozilla.org/en-US/docs/Web">MDN Web</a>
@@ -18,7 +20,9 @@ Learn how a request works, HTTP headers, JSON requests, how a browser works, how
 
 > From <a href="https://twitter.com/spaceraccoonsec/status/1250403032971407360?s=20"> Spaceraccoon's tweet</a>: To be blunt, I don't automate. I tried building a pipeline and failed. You can succeed just by learning the fundamentals. Check out @PortSwigger's web academy, watch @NahamSec's stream, read @Hacker0x01 disclosures. And learn how to build what you're hacking.
 
-<section aria-labelledby="a_few_key_messages"><h2 id="a_few_key_messages"><a href="#a_few_key_messages">A few key messages</a></h2><div class="section-content"><p>Almost all of the security exploits in the previous sections are successful when the web application trusts data from the browser. Whatever else you do to improve the security of your website, you should sanitize all user-originating data before it is displayed in the browser, used in SQL queries, or passed to an operating system or file system call.</p>
+<section aria-labelledby="a_few_key_messages"><h2 id="a_few_key_messages"><a href="#a_few_key_messages">A few key messages</a></h2><div class="section-content">
+<h2>A web application cannot trust any data from the web browser</h2>
+<p>Almost all of the security exploits in the previous sections are successful when the web application trusts data from the browser. Whatever else you do to improve the security of your website, you should sanitize all user-originating data before it is displayed in the browser, used in SQL queries, or passed to an operating system or file system call.</p>
 <div class="notecard warning" id="sect6">
   <p><strong>Warning:</strong> The single most important lesson you can learn about website security is to <strong>never trust data from the browser</strong>. This includes, but is not limited to data in URL parameters of <code>GET</code> requests, <code>POST</code> requests, HTTP headers and cookies, and user-uploaded files. Always check and sanitize all incoming data. Always assume the worst.</p>
 </div>
