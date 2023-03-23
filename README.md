@@ -1,8 +1,8 @@
 # f#
 <a href="https://developer.mozilla.org/en-US/docs/Web">MDNWeb</a><br/>
-<a href="https://portswigger.net/web-security">PortSwigger</a>
-<a href=""></a>
-<a href=""></a>
+<a href="https://portswigger.net/web-security">PortSwigger</a><br/>
+<a href=""></a><br/>
+<a href="https://owasp.org/www-community/attacks/">Owasp-Attacks</a>
 
 
 <h2>Web Application basics</h2>
