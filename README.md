@@ -1,6 +1,12 @@
 # fatoligih.github.io
 
 ## Learning
+<a href="https://developer.mozilla.org/en-US/docs/Web">MDNWeb</a>
+<a href="https://portswigger.net/web-security">PortSwigger</a>
+<a href=""></a>
+<a href=""></a>
+
+
 <h2>Web Application basics</h2>
 Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. <a href="https://developer.mozilla.org/en-US/docs/Web">MDN Web</a>
 
