@@ -4,7 +4,7 @@
 <a href=""></a><br/>
 <a href="https://owasp.org/www-community/attacks/">Owasp-Attacks</a><br/>
 <a href="https://owasp.org/www-project-top-ten/">Owasp-Top10</a><br/>
-<a href="https://owasp.org/www-community/Vulnerability_Scanning_Tools"></a>ScanningTools<br/>
+<a href="https://owasp.org/www-community/Vulnerability_Scanning_Tools">ScanningTools</a><br/>
 <a href="https://www.mozilla.org/en-US/security/bug-bounty/">MDNBB</a><br/>
 
 <h2>Web Application basics</h2>
