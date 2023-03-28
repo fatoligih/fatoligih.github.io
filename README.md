@@ -8,6 +8,9 @@
 <a href="https://owasp.org/www-project-top-ten/">Owasp-Top10</a><br/>
 <a href="https://owasp.org/www-community/Vulnerability_Scanning_Tools">ScanningTools</a><br/>
 <a href="https://www.mozilla.org/en-US/security/bug-bounty/">MDNBB</a><br/>
+<a href=""></a><br/>
+<a href=""></a><br/>
+<a href="https://docs.google.com/spreadsheets/d/1BExtUL1PnPE-WRe1t_OAOvZVq6Sonhoe29EMMTTItd4/edit?usp=sharing">f#</a><br/>
 
 <h2>Web Application basics</h2>
 Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. <a href="https://developer.mozilla.org/en-US/docs/Web">MDN Web</a>
